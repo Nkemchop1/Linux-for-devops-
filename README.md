@@ -11,3 +11,9 @@ This repository contains foundational Linux commands, scripts, and system operat
 
 ## 🧠 Purpose
 Hands-on learning and reference material to build strong Linux fundamentals required for DevOps roles.
+## 📚 Resources
+- [Linux Command Cheat Sheet (FOSSwire)](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- [Linux Essentials - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [Explainshell - Interactive Shell Command Breakdown](https://explainshell.com/)
+- [tldr.sh - Simplified Linux Commands](https://tldr.sh/)
+- [The Linux Documentation Project](https://www.tldp.org/)
