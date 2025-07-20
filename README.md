@@ -2,12 +2,15 @@
 
 This repository contains foundational Linux commands, scripts, and system operations that are part of my on-the-job DevOps training at Landmark Technologies.
 
-## 📂 Topics Covered
+## Topics Covered
 - User and group management
-- Permissions & umask
+- Permissions and `umask`
 - Bash scripting
 - File system navigation
 - Package management
+- Process handling
+- Networking basics
+- System monitoring
 
 ## 🧠 Purpose
 Hands-on learning and reference material to build strong Linux fundamentals required for DevOps roles.
