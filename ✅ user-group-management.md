@@ -1,4 +1,4 @@
-#Purpose: Commands to create, manage, and delete users and groups.#
+Purpose: Commands to create, manage, and delete users and groups.
 # User & Group Management
 
 ## Add User
